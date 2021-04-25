@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "brokerage-calculator"
+    }
+  },
+  "defaultProject": "brokerage-calculator",
+  "cli": {
+    "analytics": false
+  }
 }

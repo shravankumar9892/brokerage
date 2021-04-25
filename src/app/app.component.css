@@ -1,0 +1,58 @@
+.header {
+	
+	width: -moz-available;
+	padding: 30px;
+	background-color: #fffaa0;
+	font-size: xx-large;
+	margin-bottom: 30px;
+}
+
+.header > div {
+	float: left;
+	margin-right: 20px;
+	background-color: antiquewhite;
+	padding: 10px;
+}
+.footer {
+	position: fixed;
+	bottom: 0;
+	width: -moz-available;
+	padding: 30px;
+	background-color: #fffaa0;
+}
+
+.form-inline .form-group {
+  margin-right: 50px;
+}
+
+.table {
+	position: relative;
+}
+.table-responsive {
+    max-height:300px;
+}
+
+.clear {
+	clear: both;
+	height: 130px;
+}
+
+.notes {
+	background-color: antiquewhite;
+	text-align: center;
+	padding: 20px;
+	font-size: x-large;
+	max-width: 400px;
+	position: fixed;
+	right: 0;
+	bottom: 0;
+}
+
+.money {
+font-weight: bolder;
+}
+
+.shadow {
+	background-color: brown;
+	color: white;
+}
